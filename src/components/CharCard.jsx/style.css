@@ -1,0 +1,42 @@
+.cardverde{
+    background-color: rgb(167, 218, 206);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(53, 100, 113);
+    font-size: large;
+    font-weight: bold;
+    border: solid;
+    border-color: rgb(111, 179, 179);
+}
+.cardvermelho{
+    background-color: rgb(244, 157, 177);
+    color: rgb(116, 49, 49);
+    font-size: large;
+    font-weight: bold;
+    width: 200px;   
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid;
+    border-color: rgb(181, 97, 116);
+}
+#card{
+    width:240px;
+    height: 240px;
+    margin: 15px;
+
+}
+.imgcard{
+    width: 150px;
+    height: 150px;
+}
+.namespersonagens{
+    margin: 18px 0 5px 0;
+}
+.spanstatus{
+    margin-bottom: 10px;
+}
